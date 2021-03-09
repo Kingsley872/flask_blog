@@ -8,6 +8,8 @@
 2. pip install flask-wtf
 3. pip install email_validator
 4. pip install flask-sqlalchemy
+5. pip install flask-bcrypt
+6. pip install flask-login
 
 --------------------------------------------------------------------------------
 
